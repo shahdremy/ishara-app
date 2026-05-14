@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "676384616860",
+    "project_id": "isharaa-559f6",
+    "storage_bucket": "isharaa-559f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676384616860:android:a4c8a06e953f3b91835859",
+        "android_client_info": {
+          "package_name": "com.example.ishara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBnuVx5NaMBEdx_hPR1X6tIuSXHjppnaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676384616860:android:b5b96a06ef8bb82e835859",
+        "android_client_info": {
+          "package_name": "com.example.ishara_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBnuVx5NaMBEdx_hPR1X6tIuSXHjppnaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
